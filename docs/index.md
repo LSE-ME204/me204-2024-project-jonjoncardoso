@@ -16,6 +16,8 @@ The data was collected from the Waitrose online store over six months, covering 
 
 ## Results
 
+![Fig. 1 -- Distribution of prices for bread products](./figures/bread_price_comparison.PNG)
+
 ### Price Comparison
 
 - **White Bread**: The average price was found to be £1.20, with minimal variation.
